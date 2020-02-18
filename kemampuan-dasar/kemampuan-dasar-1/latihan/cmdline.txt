@@ -1,0 +1,508 @@
+Microsoft Windows [Version 10.0.18362.657]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\anon>colot [[<B>]<f>]
+The system cannot find the file specified.
+
+C:\Users\anon>color [[<B>]<f>]
+The system cannot find the file specified.
+
+C:\Users\anon>color 84
+
+C:\Users\anon>color e
+
+C:\Users\anon>dir /s/w/o/p
+ Volume in drive C has no label.
+ Volume Serial Number is 46AB-5668
+
+ Directory of C:\Users\anon
+
+[.]                                   [..]                                  [.android]
+[.config]                             [.idlerc]                             [.vscode]
+[3D Objects]                          [Contacts]                            [Creative Cloud Files]
+[Desktop]                             [Documents]                           [Downloads]
+[Favorites]                           [Links]                               [Music]
+[Nox_share]                           [OneDrive]                            [Pictures]
+[Saved Games]                         [Searches]                            [Videos]
+[vmlogs]                              .bash_history                         .gitconfig
+bitmap.png                            d4ac4633ebd6440fa397b84f1bc94a3c.7z   g4773.png
+inittk.ini                            inst.ini                              nuuid.ini
+path3763.png                          useruid.ini
+              10 File(s)         36,825 bytes
+
+ Directory of C:\Users\anon\.android
+
+[.]          [..]         adbkey       adbkey.pub
+               2 File(s)          2,441 bytes
+
+ Directory of C:\Users\anon\.config
+
+[.]           [..]          [configstore]
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\.config\configstore
+
+Press any key to continue . . .
+[.]                        [..]                       update-notifier-npm.json
+               1 File(s)            151 bytes
+
+ Directory of C:\Users\anon\.git
+
+[hooks]       [info]        [objects]     [refs]        config        description   HEAD
+               3 File(s)            226 bytes
+
+ Directory of C:\Users\anon\.git\hooks
+
+[.]                         [..]                        applypatch-msg.sample       commit-msg.sample
+fsmonitor-watchman.sample   post-update.sample          pre-applypatch.sample       pre-commit.sample
+prepare-commit-msg.sample   pre-push.sample             pre-rebase.sample           pre-receive.sample
+update.sample
+              11 File(s)         18,844 bytes
+
+ Directory of C:\Users\anon\.git\info
+
+[.]       [..]      exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\Users\anon\.git\objects
+
+[.]    [..]   [info] [pack]
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\.git\objects\info
+
+[.]  [..]
+Press any key to continue . . .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\.git\objects\pack
+
+[.]  [..]
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\.git\refs
+
+[.]     [..]    [heads] [tags]
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\.git\refs\heads
+
+[.]  [..]
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\.git\refs\tags
+
+[.]  [..]
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\.idlerc
+
+[.]                [..]               recent-files.lst
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\anon\.vscode
+
+Press any key to continue . . .
+[.]          [..]         [extensions] argv.json
+               1 File(s)            695 bytes
+
+ Directory of C:\Users\anon\.vscode\extensions
+
+[.]  [..]
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\3D Objects
+
+[.]  [..]
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\AppData
+
+[Local]    [LocalLow] [Roaming]
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\AppData\Local
+
+[.]                              [..]                             [Adobe]
+[AMD]                            [Apple]                          [Apple Computer]
+[ATI]                            [BraveSoftware]                  [cache]
+[CEF]                            [Comms]                          [ConnectedDevicesPlatform]
+[D3DSCache]                      [Diagnostics]                    [Discord]
+[Electronic Arts]                [ElevatedDiagnostics]            [EpicNet Inc]
+[Facebook]                       [FileZilla]                      [fontconfig]
+[Fontlab]                        [Google]                         [Massive X]
+[mbam]                           [mbamtray]                       [Microsoft]
+Press any key to continue . . .
+[MicrosoftEdge]                  [MuseScore]                      [Native Instruments]
+[Nox]                            [NoxSrv]                         [OneDrive]
+[Packages]                       [PlaceholderTileLogoFolder]      [Programs]
+[Publishers]                     [RadeonInstaller]                [RadeonSettings]
+[Serato]                         [ShadowTrackerExtra]             [Spotify]
+[SquirrelTemp]                   [Steam]                          [Sublime Text 3]
+[Temp]                           [Tempzxpsign177f3a359a2aff87]    [Tempzxpsign21efb06b917b4b33]
+[Tempzxpsign4d7227c3fb37a0e6]    [Tempzxpsign5f4b3ca15a89c29e]    [Tempzxpsign6dab338503f3b8e2]
+[Tempzxpsign9142946de4f2d7f4]    [Tempzxpsignbf0c5221e8b440d3]    [Tempzxpsignc8dc16223144daa1]
+[Tempzxpsignd1a406350cd43549]    [Tempzxpsignfe7e27190993f19c]    [Tempzxpsignff85746b04f48291]
+[Tencent]                        [UnrealEngine]                   [Valhalla DSP, LLC]
+[ValhallaDelay]                  [ValhallaPlate]                  [ValhallaRoom]
+[ValhallaRoomPreferences]        [ValhallaShimmer]                [ValhallaUberMod]
+[ValhallaVintageVerb]            [ValhallaVintageVerbPreferences] [VirtualDJ]
+[VirtualStore]                   [Wondershare]                    oobelibMkey.log
+recently-used.xbel
+               2 File(s)            218 bytes
+
+ Directory of C:\Users\anon\AppData\Local\Adobe
+
+[.]           [..]          [AAMUpdater]  [CameraRaw]   [Color]       [Fonts]       [OOBE]        [PII]
+[TypeSupport]
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\AppData\Local\Adobe\AAMUpdater
+
+[.]   [..]  [1.0]
+               0 File(s)              0 bytes
+
+Press any key to continue . . .
+ Directory of C:\Users\anon\AppData\Local\Adobe\AAMUpdater\1.0
+
+[.]                     [..]                    [Data]                  [Install]               aamul.log
+aamun.log               aamus.log               AdobeUpdaterPrefs.dat   CSUTracker.sig          CSUTracker.xml
+               6 File(s)        494,072 bytes
+
+ Directory of C:\Users\anon\AppData\Local\Adobe\AAMUpdater\1.0\Data
+
+[.]  [..]
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\AppData\Local\Adobe\AAMUpdater\1.0\Install
+
+[.]  [..]
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\AppData\Local\Adobe\CameraRaw
+
+[.]      [..]     [Cache]  [Cache2]
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\AppData\Local\Adobe\CameraRaw\Cache
+
+[.]  [..]
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\AppData\Local\Adobe\CameraRaw\Cache2
+
+[.]  [..]
+Press any key to continue . . .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\AppData\Local\Adobe\Color
+
+[.]                   [..]                  [Profiles]            ACECache11.lst        ACECache7.lst
+ACEConfigCache1.lst
+               3 File(s)         31,683 bytes
+
+ Directory of C:\Users\anon\AppData\Local\Adobe\Color\Profiles
+
+[.]          [..]         wscRGB.icc   wsRGB.icc
+               2 File(s)         68,884 bytes
+
+ Directory of C:\Users\anon\AppData\Local\Adobe\Fonts
+
+[.]              [..]             AdobeFnt11.lst
+               1 File(s)            711 bytes
+
+ Directory of C:\Users\anon\AppData\Local\Adobe\OOBE
+
+[.]                     [..]                    [com.adobe.accc.apps]   _LicenseAgreement.xml   filesync.db
+opm.db                  temp_ins_lbs_wid        temp_lbs_wid
+               5 File(s)         23,167 bytes
+
+ Directory of C:\Users\anon\AppData\Local\Adobe\OOBE\com.adobe.accc.apps
+
+[.]               [..]              [CCPrefMigration] [Icons]
+               0 File(s)              0 bytes
+
+Press any key to continue . . .
+ Directory of C:\Users\anon\AppData\Local\Adobe\OOBE\com.adobe.accc.apps\CCPrefMigration
+
+[.]  [..]
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\AppData\Local\Adobe\OOBE\com.adobe.accc.apps\Icons
+
+[.]        [..]       cookie     icons      metadata
+               3 File(s)     17,479,713 bytes
+
+ Directory of C:\Users\anon\AppData\Local\Adobe\PII
+
+[.]                   [..]                  com.adobe.pii.prefs
+               1 File(s)            329 bytes
+
+ Directory of C:\Users\anon\AppData\Local\Adobe\TypeSupport
+
+[.]              [..]             [CMaps]          AdobeFnt11.lst
+               1 File(s)        153,800 bytes
+
+ Directory of C:\Users\anon\AppData\Local\Adobe\TypeSupport\CMaps
+
+[.]              [..]             AdobeFnt11.lst
+               1 File(s)         87,963 bytes
+
+ Directory of C:\Users\anon\AppData\Local\AMD
+
+[.]              [..]             [CN]             [DVR]            [DxCache]        [GLCache]        [Radeonsoftware]
+[VkCache]
+Press any key to continue . . .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\AppData\Local\AMD\CN
+
+[.]                   [..]                  [Analytics]           [NewsFeed]            20191214-193945.CSV
+20191214-193952.CSV   20191214-193954.CSV   20191214-195958.CSV   20191215-032741.CSV   20191215-032743.CSV
+20191217-181341.CSV   20191220-050257.CSV   20191222-170847.CSV   cmdb.blb              driver.xml
+gallery.blb           gmdb.blb              rechw.blb             RGStats.db
+              15 File(s)      1,277,037 bytes
+
+ Directory of C:\Users\anon\AppData\Local\AMD\CN\Analytics
+
+[.]                    [..]                   RadeonAnalytics.JSON
+               1 File(s)          5,589 bytes
+
+ Directory of C:\Users\anon\AppData\Local\AMD\CN\NewsFeed
+
+[.]   [..]  [244]
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\AppData\Local\AMD\CN\NewsFeed\244
+
+[.]              [..]             [NewsFeedImages] cccad-244.json
+               1 File(s)          7,720 bytes
+
+ Directory of C:\Users\anon\AppData\Local\AMD\CN\NewsFeed\244\NewsFeedImages
+
+[.]                             [..]                            CN_LARGE_IMAGE_3950x.png
+CN_LARGE_IMAGE_antilag.jpg      CN_LARGE_IMAGE_boderlands.jpg   CN_LARGE_IMAGE_boost.jpg
+Press any key to continue . . .
+CN_LARGE_IMAGE_boost2020.jpg    CN_LARGE_IMAGE_general.jpg      CN_LARGE_IMAGE_ghost.jpg
+CN_LARGE_IMAGE_outer.jpg        CN_LARGE_IMAGE_radeon5500.jpg   CN_SMALL_IMAGE_3950x.png
+CN_SMALL_IMAGE_boderlands.png   CN_SMALL_IMAGE_boost2020.png    CN_SMALL_IMAGE_general.png
+CN_SMALL_IMAGE_ghost.png        CN_SMALL_IMAGE_outer.png        CN_SMALL_IMAGE_radeon5500.png
+              16 File(s)     12,377,426 bytes
+
+ Directory of C:\Users\anon\AppData\Local\AMD\DVR
+
+[.]                    [..]                   [16858509330257912085] [5803751150595494843]
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\AppData\Local\AMD\DVR\16858509330257912085
+
+[.]  [..] 0
+               1 File(s)        293,016 bytes
+
+ Directory of C:\Users\anon\AppData\Local\AMD\DVR\5803751150595494843
+
+[.]  [..] 0
+               1 File(s)        294,400 bytes
+
+ Directory of C:\Users\anon\AppData\Local\AMD\DxCache
+
+[.]                                                    [..]
+0373b6ca395a0ff1dfac641c2ade2944c088be5a40efc27f.bin   55cb533176541dcac85ef0efdbc9e916a5a288051f48269a.bin
+6e1fdb61c3b9b5059ebd9015dfb9736887f9c715c39b1026.bin   82013064bc5e9bf2da3b2c98b699af0debf4810e5c92c753.bin
+82013064bc5e9bf2ecbd7d9b9bd35bdeebf4810e5c92c753.bin   83a67355425d3f61caff8e337fbbfeebc39c031974ae05fa.bin
+8b80d962c50df37d1239d40bec3da474153f1098bb60dcf1.bin   8b80d962c50df37d40fc684c20c7637c153f1098bb60dcf1.bin
+94ab47292f63e5a522b7b507a2d64f43c7d285c391a793fa.bin   96a02050c9f9c871f70a619f707f5a734086d726917087c5.bin
+Press any key to continue . . .
+d3e77a123d2f720317bcd9be6852c75607009515dd566072.bin   d3e77a123d2f72032333108dcb4b918207009515dd566072.bin
+d8e8375d20598df4c06f4a5bffacb52f761c6167569e0c00.bin
+              13 File(s)    141,033,472 bytes
+
+ Directory of C:\Users\anon\AppData\Local\AMD\GLCache
+
+[.]                                       [..]
+1bf47723fee74d81_7bc93a1b8cfbfd77_4.bin   1bf47723fee74d81_7bc93a1b8cfbfd77_4.idx
+1bf47723fee74d81_a2b71f5b6c119186_4.bin   1bf47723fee74d81_a2b71f5b6c119186_4.idx
+4891f2419e867137_7bc93a1b8cfbfd77_4.bin   4891f2419e867137_7bc93a1b8cfbfd77_4.idx
+5b29effe650b9c07_4f8060b27ed57cd1_4.bin   5b29effe650b9c07_4f8060b27ed57cd1_4.idx
+5b29effe650b9c07_7bc93a1b8cfbfd77_4.bin   5b29effe650b9c07_7bc93a1b8cfbfd77_4.idx
+813249ccf8579585_7bc93a1b8cfbfd77_4.bin   813249ccf8579585_7bc93a1b8cfbfd77_4.idx
+813249ccf8579585_a2b71f5b6c119186_4.bin   813249ccf8579585_a2b71f5b6c119186_4.idx
+c78a16879808119e_7bc93a1b8cfbfd77_4.bin   c78a16879808119e_7bc93a1b8cfbfd77_4.idx
+c78a16879808119e_c8c6272de071ca00_4.bin   c78a16879808119e_c8c6272de071ca00_4.idx
+              18 File(s)      1,328,974 bytes
+
+ Directory of C:\Users\anon\AppData\Local\AMD\Radeonsoftware
+
+[.]           [..]          [cache]       [QtWebEngine]
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\AppData\Local\AMD\Radeonsoftware\cache
+
+[.]        [..]       [qmlcache]
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\anon\AppData\Local\AMD\Radeonsoftware\cache\qmlcache
+
+Press any key to continue . . .
+[.]                                             [..]
+0287568f6b75a8de2d21278106c373f2fd10f5ab.qmlc   055ab669598a85b07ca1a312b70bb2d735566235.jsc
+05760cce83a8dfa687256693a7397a94161c7429.qmlc   0bd5cf23c1a78fdd98ccbf96a05645392c65305c.qmlc
+14b0de5879e797bed4ed649bc7457ada52a71c3b.qmlc   1d6263d03294a2f9bcd55bde4f33e5de1ed9c0f2.qmlc
+29bb0c0bf0b58d48d2c7055bcc94c1807afc5bc8.qmlc   2bad62830a1a3fa395c30b0def6305959ce00e7d.qmlc
+32b209153dcef267f7a80a415cfe34e75c673c2e.qmlc   39e558df74e490d8b2a9a7898d04ba05ba07d713.qmlc
+3ecf731716e712a87e5a1497cd9982009895b0ed.qmlc   452515eb941cb7160682f3dca588491df831c58a.qmlc
+4e6c64374802c0a24d026cc2f1f6576e1f2d9deb.qmlc   507b532306dc57a70dba6d385fa1db221bdc1196.qmlc
+5207e4268480caa15af03c29c1ab9cd040c0bfe5.qmlc   5846ecc766658c42f6899c3300227c24422c029c.qmlc
+5a10e3c0d63fbbb9d532fdff7b935943e9a4180b.qmlc   5dc3bf8861a3f8b4b676552993b44c11e7d7c4dd.qmlc
+659d032d7554e20815645659c4a4771ad6f28eaa.qmlc   667239feb931f410e4c21a0a66b1f36ea615f256.qmlc
+6d7e9aa9e1f7bdef62c968f6ba5c6262feef3652.qmlc   6f24684d8b50193eb3cdfee634ff56f1ba4b5ffd.jsc
+764491f39a190ce4784fe9fb5f9321d6a83a6923.qmlc   76aca5c7844b29e0362f70becc73c1f0b6cc503b.qmlc
+7db9dca541ca970bbde9a255a4c8ad930d661522.qmlc   7ef944aa89e49823dadcfe593aceb667d1f0ca6b.qmlc
+8b421c776123b00d00c5fc368b81f68c22c3bf3a.qmlc   93f9f424943f9bc70e700cc1b13e475994baf4dc.qmlc
+95a8b5eb4b9d209a46517148d3490ca93123bfc6.qmlc   9b2c821191df464a61bc66bd5026075a4b232af8.jsc
+9cb98731fb29195e48040dc21ae224f0d4c3cc71.qmlc   a178e511f194367f96881a7f045e55580475fc41.qmlc
+a24fa65f5047c8878e02c45ce342d5d69adf2067.qmlc   a26018a2dfd4adde3e3191b56f7323f042390e1f.qmlc
+abc17aac885f87afcc5fbea22502bfa7c3e539ca.qmlc   ac4358be4e9a3cdeb4a8e1d576ec478aa216e9b9.qmlc
+b61b2ceb9b2be7177aab396b65e75f1be5156c45.qmlc   bfd74a5141e51e29b3940c0f698c2755e8764fb3.qmlc
+c4d8484a5bc074b78ea4656d40571c254284a480.qmlc   c7f5d769a1cf8c7f79053219959679b2a01cd04a.qmlc
+d0ed837cb6b63600f6074e658f45046a81cce16b.qmlc   d21507d20efc9bdd144e9be39568879e5b8ab2dd.qmlc
+d7c9692f2b381eb260ee1d3b3bf35a5ce64ca547.qmlc   d9ff1789c7bf11aa8d294ede3df00436548279aa.qmlc
+e32adf378436174ff740b9f268a4fb98f4a5fb41.qmlc   e50e62317dd976f8872060c6060416dd3dac1b22.qmlc
+e85ee428750b0511dee051a15583b9849dbe5386.qmlc   f353ffb44954d9d0a50ef976fad4f9df06ed65f2.qmlc
+fded362ed867cc3f22faf60c8331c4a030442901.qmlc
+              49 File(s)        460,888 bytes
+
+ Directory of C:\Users\anon\AppData\Local\AMD\Radeonsoftware\QtWebEngine
+
+Press any key to continue . . .
+[.]       [..]      [Default]
+               0 File(s)              0 bytes
+
+C:\Users\anon>
+C:\Users\anon>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::4d84:fdc5:e7c8:6344%7
+   IPv4 Address. . . . . . . . . . . : 192.168.1.3
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::1%7
+                                       192.168.1.1
+
+C:\Users\anon>label a:sales-july
+Parameters not compatible.
+
+C:\Users\anon>mkdir gas
+
+C:\Users\anon>ls -l
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\anon>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\anon>/lc
+'/lc' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\anon>cd gas
+
+C:\Users\anon\gas>cd ..
+
+C:\Users\anon>netsh
+netsh>
+C:\Users\anon>ping 192.168.1.1
+
+Pinging 192.168.1.1 with 32 bytes of data:
+Reply from 192.168.1.1: bytes=32 time=1ms TTL=64
+Reply from 192.168.1.1: bytes=32 time=1ms TTL=64
+Reply from 192.168.1.1: bytes=32 time=2ms TTL=64
+Reply from 192.168.1.1: bytes=32 time=2ms TTL=64
+
+Ping statistics for 192.168.1.1:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1ms, Maximum = 2ms, Average = 1ms
+
+C:\Users\anon>rd gas
+
+C:\Users\anon>cd gas
+The system cannot find the path specified.
+
+C:\Users\anon>shadow 77
+'shadow' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\anon>shadow 93
+'shadow' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\anon>shadow ACCTG01
+'shadow' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\anon>tasklist /v fi "PID gt 1000" /fo csv
+ERROR: Invalid argument/option - 'fi'.
+Type "TASKLIST /?" for usage.
+
+C:\Users\anon>type holiday.mar
+The system cannot find the file specified.
+
+C:\Users\anon>type README.md
+The system cannot find the file specified.
+
+C:\Users\anon>whoami
+desktop-dm5emdb\anon
+
+C:\Users\anon>
+C:\Users\anon>copy bitmap.png bitmap1.png /a
+        1 file(s) copied.
+
+C:\Users\anon>ls -a
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\anon>mkdir -p
+
+C:\Users\anon>date /t
+Tue 02/18/2020
+
+C:\Users\anon>print bitmap.png
+Unable to initialize device PRN
+
+C:\Users\anon>rpcinfo
+'rpcinfo' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\anon>time /t
+10:38 PM
+
+C:\Users\anon>where /r bitmap.png
+ERROR: Invalid syntax. Default argument is missing.
+Type "WHERE /?" for usage.
+
+C:\Users\anon>call checknew
+'checknew' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\anon>
